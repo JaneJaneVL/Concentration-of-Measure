@@ -6,4 +6,4 @@ And how to do a visualization of uniform distrubiton on a unit sphere?
 
 Article (in Russian): https://arxiv.org/abs/1804.03722
 
- Monte--Carlo estimate of the expectation 
+ Monte-Carlo estimate of the expectation 
